@@ -79,7 +79,9 @@ the script will load and the home page Will look clean.
 ISSUE
 
 All texts are case sensetive
+
 "picked for you" section does not seem to removed using this method
+
 spotify being a online music platform it updates the sections each day which means new sections will get it's way to the home screen. To remove them you have to manually add the the line that has been added
 
      section[aria-label^='Name of section you want to remove'] {
